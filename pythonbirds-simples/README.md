@@ -191,6 +191,8 @@ ainda não foi lançado.
 Método que executa a lógica do jogo a cada passo (tempo), retornando pontos a serem exibidos na tela.
 
 Ele deve:
+teste
+
 
 1. Calcular a posição de cada pássaro, verificando se ele colidiu com algum obstáculo, porco ou chão.
 2. Retornar instâncias da classe Ponto, informando x, y e caracter respectivo a cada ator.
@@ -209,4 +211,3 @@ Contudo o Estevão Fonseca fez um versão com essa biblioteca, confira o projeto
 
 Ele também colocou esse [vídeo no Youtube](https://www.youtube.com/watch?v=B7G5JtCFepE). 
 
-teste
