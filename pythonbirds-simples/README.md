@@ -191,7 +191,7 @@ ainda não foi lançado.
 Método que executa a lógica do jogo a cada passo (tempo), retornando pontos a serem exibidos na tela.
 
 Ele deve:
-teste
+
 
 
 1. Calcular a posição de cada pássaro, verificando se ele colidiu com algum obstáculo, porco ou chão.
